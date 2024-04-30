@@ -1,3 +1,10 @@
+# custom
+temp/
+manuscript/
+Dataset_1_NCA_battery/
+sandbox.py
+sandbox2.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

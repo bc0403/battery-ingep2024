@@ -4,6 +4,7 @@ manuscript/
 Dataset_1_NCA_battery/
 sandbox.py
 sandbox2.py
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

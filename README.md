@@ -1,5 +1,7 @@
 # battery-ingep2024
-code for ingep2024 manuscript
+code for INGEP2024 conference paper:
+
+Zhu, G., Lv, X., Zhang, Y., Lu, Y., Han, G., Chen, M., Zhou, Y., & Jin, H. (2024). Estimating lithium-ion battery capacity from relaxation voltage using a machine learning approach. Journal of Physics: Conference Series, 2809(1), 012053. https://doi.org/10.1088/1742-6596/2809/1/012053
 
 ## Environment
 * install Python 3.11.5
